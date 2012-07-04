@@ -10,7 +10,7 @@
 <script src="js/lib/jquery-1.6.4.min.js"></script>
 	<script src="js/jquery.backstretch.min.js"></script>
 	<script>
-	//script voor achtergrond plaatje full screen
+	// MS script voor achtergrond plaatje full screen
 	$(document).ready(function(){
 	    $.backstretch("images/bg2.png");
 	});
@@ -19,10 +19,10 @@
     
     <script type="text/javascript">
 
-	//gegevens van de backend komen binnen
+	// MS gegevens van de backend komen binnen
 	$.get("http://www.schuttertransport.nl/backend.php", function(data){ 
 
-		//er wordt in de binnengekomengegevens gezocht naar wat er nodig is
+		// MS + JB er wordt in de binnengekomengegevens gezocht naar wat er nodig is
 		var gewicht = $('span#Gewichtwhopper', data).html();
 		var kilocalorien = $('span#Kilocalorieenwhopper', data).html();
 		var koolhydraat = $('span#Koolhydratenwhopper', data).html();
@@ -30,7 +30,7 @@
 		var suiker = $('span#Suikerwhopper', data).html();
 		var eiwitten = $('span#Eiwittenwhopper', data).html();
 		
-		//de uitgesoorteerde gegevens worden in de frontend geplaatst
+		// MS + JB de uitgesoorteerde gegevens worden in de frontend geplaatst
 		document.getElementById('gewichtje').value = gewicht;
 		document.getElementById('kilocalorientje').value = kilocalorien;
 		document.getElementById('koolhydraatje').value = koolhydraat;
@@ -46,24 +46,24 @@
 <body>
 	<div id="container">
 	   	<div id="header_container" >
-		<!-- LOGO PLAATJE -->
+		<!-- MS LOGO PLAATJE -->
 	   		<img src="images/logo.png" height="100%"/>
 	   	
 	   	</div>
 	   	
 	   	<div id="content">
 	   	<div id="textbox">
-	   	<!-- tekst van de burger -->
+	   	<!-- MS tekst van de burger -->
 		<h2>De Whopper® heeft eigenlijk geen uitleg nodig. Zodra je tanden in het versgeroosterde sesambroodje zinken en je de unieke BBQ-smaak van de Flame-Grilled burger proeft, snap je waarom de Whopper® onze concurrenten al sinds 1957 tot waanzin drijft. Het is de absolute Koning onder de burgers. Door velen gekopieerd maar nog nooit verbeterd. De Whopper® wordt samengesteld uit een geroosterd sesambroodje, Flame-Grilled Beef, verse tomaten, knapperige sla, romige mayonaise, ketchup, augurken en uitjes.</h2>
 	   	</div>
 	   	
 	   	<div id="imagebox">
-	   	<!-- plaatje van de burger -->
+	   	<!-- MS plaatje van de burger -->
 	   		   <img src="images/burgers_menu/whopper.png" />
 	   	</div>
 
 	   	<div id="voedingswaardebox">
-	   	<!-- voedingswaarde -->
+	   	<!-- MS voedingswaarde -->
 		<div id="gewicht" ><form name="formulier1" class="transparant"><h2><input type="text" id="gewichtje" name="tekstvakgewicht" class="transparant"></h2></form></div>
 		
 		<div id="kilocalorien"><form name="formulier2" class="transparant"><h2><input type="text" id="kilocalorientje" name="tekstvakgewicht" class="transparant"></h2></form></div>
@@ -79,12 +79,12 @@
 
 		</div>
 	   	
-	   	</div> <!--  voedingswaardebox -->
+	   	</div> <!--  MS voedingswaardebox -->
 	   	
-	   	</div> <!--  content -->
+	   	</div> <!--  MS content -->
 	   	
 	   	<div id="footer">
-	   	
+	   	<!--  MS footer -->
 	   	<div id="backbutton" >
 			<a href="burgers.html" ><img src="images/home/backbutton.png" height="50%"/></a>
 		</div>

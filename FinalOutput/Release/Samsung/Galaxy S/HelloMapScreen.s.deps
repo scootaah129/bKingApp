@@ -1,0 +1,47 @@
+ \
+ C:\MoSync\workspace\whopper3\FinalOutput\Release\Samsung\Galaxy\ S\HelloMapScreen.s:  \
+ C:\MoSync\workspace\whopper3\HelloMapScreen.cpp \
+  C:\MoSync\workspace\whopper3\/HelloMapScreen.h \
+  c:/MoSync/include/MAUI/Screen.h c:/MoSync/include/MAUI/Widget.h \
+  c:/MoSync/include/MAUtil/Vector.h c:/MoSync/include/MAUtil/RefCounted.h \
+  c:/MoSync/include/MAUtil/String.h c:/MoSync/include/MAUtil/RefCounted.h \
+  c:/MoSync/include/MAUtil/Vector.h c:/MoSync/include/ma.h \
+  c:/MoSync/include/maapi.h c:/MoSync/include/maapi_defs.h \
+  c:/MoSync/include/MAUtil/Geometry.h c:/MoSync/include/MAUI/WidgetSkin.h \
+  c:/MoSync/include/MAUtil/HashMap.h c:/MoSync/include/MAUtil/HashDict.h \
+  c:/MoSync/include/maassert.h c:/MoSync/include/ma.h \
+  c:/MoSync/include/maheap.h c:/MoSync/include/kazlib/hash.h \
+  c:/MoSync/include/limits.h c:/MoSync/include/MAUtil/collection_common.h \
+  c:/MoSync/include/MAUtil/String.h \
+  c:/MoSync/include/MAUtil/HashDict_impl.h \
+  c:/MoSync/include/MAUtil/HashMap_impl.h \
+  c:/MoSync/include/MAUI/InputManager.h \
+  c:/MoSync/include/MAUtil/Environment.h \
+  c:/MoSync/include/MAUtil/ListenerSet.h \
+  c:/MoSync/include/MAUtil/Moblet.h \
+  c:/MoSync/include/MAUtil/Environment.h \
+  c:/MoSync/include/MAP/MapWidget.h c:/MoSync/include/MAUI/Widget.h \
+  c:/MoSync/include/MAP/MapViewport.h c:/MoSync/include/MAUI/Font.h \
+  c:/MoSync/include/MAP/LonLat.h c:/MoSync/include/maapi.h \
+  c:/MoSync/include/madmath.h c:/MoSync/include/mastring.h \
+  c:/MoSync/include/mactype.h c:/MoSync/include/MAP/PixelCoordinate.h \
+  c:/MoSync/include/MAP/MapCache.h c:/MoSync/include/MAP/DateTime.h \
+  c:/MoSync/include/mastring.h c:/MoSync/include/matime.h \
+  c:/MoSync/include/MAP/TimeSpan.h c:/MoSync/include/MAP/MapSource.h \
+  c:/MoSync/include/MAUtil/Downloader.h \
+  c:/MoSync/include/MAUtil/Connection.h c:/MoSync/include/MAUtil/util.h \
+  c:/MoSync/include/MAP/MapTile.h c:/MoSync/include/MAP/DebugPrintf.h \
+  c:/MoSync/include/conprint.h c:/MoSync/include/maarg.h \
+  c:/MoSync/include/mavsprintf.h c:/MoSync/include/mavsprintf.h \
+  c:/MoSync/include/MAUtil/PlaceholderPool.h \
+  c:/MoSync/include/MAP/TraceScope.h c:/MoSync/include/MAP/Queue.h \
+  c:/MoSync/include/MAP/MemoryMgr.h c:/MoSync/include/MAP/Broadcaster.h \
+  c:/MoSync/include/MAP/MapTileCoordinate.h \
+  c:/MoSync/include/MAP/MapSource.h \
+  C:/MoSync/workspace/whopper3/FinalOutput/Release/Samsung/Galaxy\ S/MAHeaders.h \
+  c:/MoSync/include/mastdlib.h c:/MoSync/include/maxtoa.h \
+  c:/MoSync/include/MAP/OpenStreetMapSource.h \
+  c:/MoSync/include/MAP/GoogleMapSource.h \
+  C:\MoSync\workspace\whopper3\/HelloMapMoblet.h \
+  C:\MoSync\workspace\whopper3\/HelloMapScreen.h \
+  c:/MoSync/include/MAP/DebugPrintf.h
